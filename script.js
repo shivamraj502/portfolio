@@ -1,1 +1,3 @@
-document.body.style.backgroundColor = "lightblue";
+function changeColor() {
+    document.body.style.backgroundColor = "lightblue";
+}
